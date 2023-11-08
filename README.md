@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Taarun Srinivas</h1>
+<h1 align="center">Hello World! I am Taarun Srinivas</h1>
 <div align = "center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="400">
@@ -34,6 +34,7 @@ I am passionate about these fields simply because I love viewing this world from
 <div align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
 </div>
 <br></br>
 
@@ -41,5 +42,7 @@ I am passionate about these fields simply because I love viewing this world from
 <div align = "left">
 <a href="https://www.linkedin.com/in/taarun-srinivas-5a2032182/" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+<a href="" target="_blank>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
 </div>
 <br></br>
