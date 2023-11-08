@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I am Taarun Srinivas</h1>
+<div align = "center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="400">
+</div>
 <br><br>
 
 <h4> 
@@ -37,6 +39,7 @@ I am passionate about these fields simply because I love viewing this world from
 
 <h2 align = "center"> Reach out to me at </h2>
 <div align = "left">
-<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="100">
+<a href="https://www.linkedin.com/in/taarun-srinivas-5a2032182/" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 </div>
 <br></br>
