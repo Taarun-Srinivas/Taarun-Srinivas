@@ -44,6 +44,6 @@ I am passionate about these fields simply because I love viewing this world from
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
 <a href="" target="_blank>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="50">
-<a href="mailto:ts4649@nyu.edu"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Python" width="50"></a>
+<a href="mailto:ts4649@nyu.edu"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Python" width="70"></a>
 </div>
 <br></br>
