@@ -5,12 +5,16 @@
 </div>
 <br><br>
 
-<h4> 
-I am currently a graduate student at NYU Tandon majoring in Mechatronics and Robotics program. My areas of interests are computer vision, deep learning, sensor fusion, SLAM, 3D computer vision  
+<h4>
+  <div style="text-align: justify"> I am currently a graduate student at NYU Tandon majoring in Mechatronics and Robotics program. My areas of interests are computer vision, deep learning, sensor fusion, SLAM, 3D computer vision </div>  
 </h4>
 
 <h4>
-I am passionate about these fields simply because I love viewing this world from a machine's perspective. Devoting my time and efforts to providing autonomy to machines and make them take intelligent decisions is a great challenge and that's what excites me to contribute to this field.
+<div style="text-align: justify"> I am passionate about these fields simply because I love viewing this world from a machine's perspective. Devoting my time and efforts to providing autonomy to machines and make them take intelligent decisions is a great challenge and that's what excites me to contribute to this field.</div>
+</h4>
+
+<h4>
+  <div style="text-align: justify"> I am currently learning SLAM and 3D computer vision. I always love working in a collaborative environment. If you have any interesting ideas, Please reach out to me. I am always excited to work in perception projects and looking forward to learn and grow together. </div>
 </h4>
 
 <h2 align="center">My Skills </h2>
@@ -24,9 +28,10 @@ I am passionate about these fields simply because I love viewing this world from
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" width="50" /></a>  
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50"/> </a>
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" width="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" width="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="50" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" width="50"/></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" width="50"/></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="50"/></a>  
+<img src="https://github.com/starceees/starceees/blob/main/ros_logo.png" alt="ROS" width="100" height="50">
 </div>
 <br></br>
 
