@@ -29,13 +29,14 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50"/> </a>
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" width="50"/></a>  
+ <img src="https://github.com/Taarun-Srinivas/Taarun-Srinivas/assets/52371207/5563b4ca-b8df-4c2e-8d41-2ba207d1badf" alt="Fusion360" width="100" height="50></div>
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" width="50"/></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="50"/></a>  
 <img src="https://github.com/starceees/starceees/blob/main/ros_logo.png" alt="ROS" width="100" height="50">
 </div>
 <br></br>
 
-<h2 align="center">Environments </h2>
+<h2 align="center"> Environments </h2>
 <div align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="50">
